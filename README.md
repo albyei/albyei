@@ -24,7 +24,7 @@ I'm passionate about building efficient and scalable backend systems. I'm curren
 
 ### 📫 How to contact me
 - **GitHub:** [github.com/albyei](https://github.com/albyei)
-- **LinkedIn:** [linkedin.com/in/ALBI-ARIZA-SYAFIQ](www.linkedin.com/in/albi-ariza-syafiq-6630b634a)
+- **LinkedIn:** (www.linkedin.com/in/albi-ariza-syafiq-6630b634a)
 
 ### ⚡ Fun Facts
 - I enjoy adventure & outdoor activities 🏕️🔥
